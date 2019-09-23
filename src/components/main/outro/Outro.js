@@ -5,12 +5,13 @@ import Nyhedsbrev from './Nyhedsbrev';
 
 const Outro = () => {
     return (
-        <div>
-            <p>outro</p>
+        <section>
             <DKS/>
-            <Instagram/>
-            <Nyhedsbrev/>
-        </div>
+            <div className="row">
+                <Instagram/>
+                <Nyhedsbrev/>
+            </div>
+        </section>
     )
 }
 

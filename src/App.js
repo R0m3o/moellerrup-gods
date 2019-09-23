@@ -6,7 +6,7 @@ import Footer from './components/footer/Footer';
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="container">
         <Header/>
         <Main/>
         <Footer/>

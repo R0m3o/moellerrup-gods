@@ -2,7 +2,7 @@ import React from 'react';
 
 const Instagram = () => {
     return (
-        <div>
+        <div className="col-md-8">
             <p>instagram</p>
         </div>
     )
