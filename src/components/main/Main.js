@@ -6,13 +6,12 @@ import Outro from './outro/Outro';
 
 const Main = () => {
     return (
-        <div>
-            <p>main</p>
+        <main className="container">
             <Intro/>
             <Nyheder/>
             <Aktiviteter/>
             <Outro/>
-        </div>
+        </main>
     )
 }
 

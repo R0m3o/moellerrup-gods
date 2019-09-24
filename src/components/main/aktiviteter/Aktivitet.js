@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Hampmark from '../../../assets/images/hampmark.jpg';
 import ModerEvents from '../../../assets/images/moder.events.jpg';
-import FestPaaKroen from '../../../assets/images/ferie.huberlus.jpg';
+import FestPaaKroen from '../../../assets/images/fest.paa.kroen.jpg';
 import Rundvisning from '../../../assets/images/rundvisning.jpg';
 import HudplejeHamp from '../../../assets/images/hudpleje.hamp.jpg';
 import FodevarerHamp from '../../../assets/images/fodevarer.hamp.jpg';
